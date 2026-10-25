@@ -12,7 +12,7 @@ const APPS=[
 {n:'Pass It On',live:'pass-it-on',d:'Help each other. Pass kindness forward. Soft chain of what helped you.',lim:'On-device only. Starts empty.'},
 {n:'nice things',live:'nice-things',d:'Happiness jar. Drop in a nice thing, stack it, draw one when you need it.',lim:'On-device only.'},
 {n:'The Shelves',live:'the-shelves',d:'Clio house library. Searchable home for house days, builds, kin, opens, and made apps.',lim:'Seeded from verified archive only.'},
-{n:'Steady',live:'steady',d:'Warm diabetes helper. Low-sugar walk, number log, plate method, sick-day, hard-day with 988.',lim:''},
+{n:'Steady',live:'steady',d:'Warm diabetes helper. Low-sugar walk, number log, plate method, sick-day, hard-day soft check-in.',lim:''},
 {n:'Lumenway',live:'lumenway',d:'Family music navigator. Entry, bridge, landing from state in. Logs what shifted.',lim:'No Spotify auto-pick wired — will not fake it.'},
 {n:'Little World',live:'little-world',d:'Dark museum shell. Rooms, timeline wall, music shelf. Weston and Eve fill it.',lim:'Gaps left open on purpose.'},
 {n:'Schmidt Family House',live:'schmidt-family-house',d:'Protection of rights. House hierarchy, marriage certificate, bios, family contracts, search.',lim:'Family document — not a state-issued form.'},
