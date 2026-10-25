@@ -1,5 +1,12 @@
 const L='https://schmidtweston-ship-it.github.io/';
 const APPS=[
+{n:'Porch Light',live:'porch-light',d:'Someone leaves a light on for you. Soft Mom. Guy.',lim:'Prototype. On-device only.'},
+{n:'Professor flashcards',live:'professor-flashcards',d:'Adult literacy / tech-word fear. One word, plain meaning. Durable flashcards so meanings do not drift.',lim:'Offline. No install.'},
+{n:'Continuity Shelf',live:'continuity-shelf',d:'Clio — keep what matters on the shelf. Quiet continuity for days, builds, and names.',lim:'On-device. Soft Mom.'},
+{n:'Vow',live:'vow',d:'Ask each other every day. Letter-style vows. Chalkboard board. Offline PWA.',lim:''},
+{n:'Ask Dad',live:'ask-dad',d:'Ask Dad anything. He answers from what he\'s lived. Lived experience only.',lim:'No auto web answers.'},
+{n:'Hold for You',live:'hold-for-you',d:'One person holds a daily check-in for someone they love. Presence, not therapy.',lim:'On-device.'},
+{n:'House Sound',live:'house-sound',d:'Family music lab — loops, synth, DJ, record.',lim:''},
 {n:'Next One',live:'next-one',d:'One big "I need help now" button. It shows one coping skill at a time. If it does not help, tap Next one. Practice on calm days. 21 reps earns a gold star.',lim:'Not tried on a real phone yet. Call 988 and Text 988 are always at the bottom.'},
 {n:'Pass It On',live:'pass-it-on',d:'Help each other. Pass kindness forward. Soft chain of what helped you.',lim:'On-device only. Starts empty.'},
 {n:'nice things',live:'nice-things',d:'Happiness jar. Drop in a nice thing, stack it, draw one when you need it.',lim:'On-device only.'},
