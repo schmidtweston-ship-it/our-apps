@@ -1,5 +1,6 @@
 const L='https://schmidtweston-ship-it.github.io/';
 const APPS=[
+{n:'Valley Strengths',live:'valley-strengths',d:'Roaring Fork Valley porch — teach what you know for free inside the circle. Meetup energy Aspen/Basalt/Carbondale/Glenwood was missing.',lim:'Offline. On-device offers/needs/hangs. No crisis chrome.'},
 {n:'Porch Light',live:'porch-light',d:'Someone leaves a light on for you. Soft Mom. Guy.',lim:'Prototype. On-device only.'},
 {n:'Professor flashcards',live:'professor-flashcards',d:'Adult literacy / tech-word fear. One word, plain meaning. Durable flashcards so meanings do not drift.',lim:'Offline. No install.'},
 {n:'Continuity Shelf',live:'continuity-shelf',d:'Clio — keep what matters on the shelf. Quiet continuity for days, builds, and names.',lim:'On-device. Soft Mom.'},
